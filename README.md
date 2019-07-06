@@ -16,9 +16,12 @@ http://brohrer.github.io/deep_learning_demystified.html
 ## Courses
 ### How Deep Neural Networks Work by Brandon Rohrer
 A conceptual overview of neural networks, the workhorse of artificial intelligence
-
 https://end-to-end-machine-learning.teachable.com
 
+### Stanford Winter Quarter 2016 class: CS231n: Convolutional Neural Networks for Visual Recognition by Andrej Karpathy
+https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+
+Latest Course : http://cs231n.stanford.edu/
 
 # Machine Learning
 
