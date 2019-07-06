@@ -32,6 +32,7 @@ https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-net
 
 ### How Convolutional Neural Networks work by Brandon Rohrer
 https://www.youtube.com/watch?v=FmpDIaiMIeA
+http://brohrer.github.io/how_convolutional_neural_networks_work.html
 
 ### Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) by Stanford University School of Engineering
 
