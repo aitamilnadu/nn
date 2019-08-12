@@ -4,6 +4,7 @@
 
 ### Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) by Brandon Rohrer
 https://www.youtube.com/watch?v=WCUNPb-5EYI
+
 https://brohrer.github.io/how_rnns_lstm_work.html
 
 ### A friendly introduction to Recurrent Neural Networks by Luis Serrano

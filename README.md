@@ -25,10 +25,10 @@ Latest Course : http://cs231n.stanford.edu/
 
 # Machine Learning
 
-### A Friendly Introduction to Machine Learning by Luis Serrano
+## A Friendly Introduction to Machine Learning by Luis Serrano
 https://www.youtube.com/watch?v=IpGxLWOIZy4
 
-The video explains
+This video explains
 * What is Machine Learning? Humans learn from past experiences, computers learn from previous data.
 * Linear Regression: Finding the line that works best between a given set of points.
 * Gradient Descent : Square of error minimization to get best line fit
@@ -42,3 +42,7 @@ The video explains
 * Hierarchical Clustering
 * Summary
 
+## Machine Learning Cheatsheet
+Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
+
+https://ml-cheatsheet.readthedocs.io/en/latest/
