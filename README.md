@@ -4,13 +4,19 @@
 
 ### How Deep Neural Networks Work by Brandon Rohrer
 https://www.youtube.com/watch?v=ILsA4nyG7I0
+
 https://brohrer.github.io/how_neural_networks_work.html
 
 ### A friendly introduction to Deep Learning and Neural Networks by Luis Serrano
 https://www.youtube.com/watch?v=BR9h47Jtqyw
 
+### Visual Introduction to Neural Network by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
 ### Deep Learning Demystified
 https://www.youtube.com/watch?v=Q9Z20HCPnww
+
 http://brohrer.github.io/deep_learning_demystified.html
 
 ## Courses
